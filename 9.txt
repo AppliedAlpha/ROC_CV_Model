@@ -1,0 +1,62 @@
+rice
+flour
+rice cake
+napa cabbage
+cabbage
+radish
+potato
+carrot
+onion
+green onion
+garlic
+chopped garlic
+cucumber
+zucchini
+pepper
+spinach
+bean sprout
+pork
+beef
+raw chicken
+tofu
+egg
+anchovy
+chili pepper paste
+ssamjang
+soy sauce
+soybean paste
+red pepper powder
+salt
+sugar
+oligodang
+oil
+pepper
+sesame oil
+seaweed
+brown seaweed
+mushroom
+enoki mushroom
+sesame
+apple
+lemon
+tomato
+strawberry
+banana
+orange
+white bread
+duck meat
+ham
+sausage
+dumpling
+pork cutlet
+nugget
+chicken breast
+mackerel
+shrimp
+salmon
+squid
+kimchi
+fish cake
+milk
+cheese
+butter
